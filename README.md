@@ -10,3 +10,6 @@
 - Add the ability to create message
 - Add Stop Video button
 - add Leave meeting button
+- deploy zoom-clone link in below
+- https://sheltered-tor-06085.herokuapp.com/
+- click the link and goto zoom-clone
